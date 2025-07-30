@@ -7,7 +7,8 @@
     <!-- Aquí solo quedaría la estructura básica del archivo web.xml -->
     <!-- No necesitas definir los servlets aquí si estás usando anotaciones en tu código -->
     <welcome-file-list>
-        <welcome-file>index.html</welcome-file>
+        <welcome-file>pages/index.html</welcome-file>
     </welcome-file-list>
+
 
 </web-app>
